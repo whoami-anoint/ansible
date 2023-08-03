@@ -27,7 +27,7 @@ pydantic==1.10.7
 pygments==2.15.1
 pyproject-hooks==1.0.0
 pyyaml==6.0
-requests==2.30.0
+requests==2.31.0
 resolvelib==1.0.1
 rstcheck==5.0.0
 semantic-version==2.10.0
